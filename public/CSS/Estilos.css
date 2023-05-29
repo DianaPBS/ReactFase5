@@ -1,0 +1,108 @@
+*{
+    padding: 0%;
+    margin: 0;
+}
+h1 {
+    text-align: center;
+    background-color: rgb(0, 195, 255);
+    color: antiquewhite;
+    padding: 20px;
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+h4{
+    padding: 30px;
+    text-align: left;
+}
+nav ul {
+    background-color: cornflowerblue;
+    width: 100%;
+    list-style-type: none;
+}
+nav li {
+    display: inline-flex;
+}
+nav a {
+    text-decoration: none;
+    color: aliceblue;
+    padding: 30px;
+    width: 150px;
+}
+.imagen1 {
+    width: 100%;
+    height: 50%;
+    object-fit: cover;
+}
+.Contenido {
+    display: flex;
+    margin: 60px;
+}
+.Articulos {
+    width: 80%;
+    
+}
+.Secciones {
+    display: flex;
+    align-items: center;
+    padding: 40px;
+}
+
+.Secciones2 {
+    padding: 300px;
+}
+.Secciones3 {
+    width: 700px;
+    display: flex;
+    align-items: center;
+    padding: 40px;
+}
+footer{
+    text-align: center;
+    
+}
+.imagen{
+    width: 700px;
+    height: auto;
+    border: 2px;
+    object-fit: cover;
+    background-position: center;
+}
+.contmock{
+    display: flexbox;
+    text-align: center;
+    
+}
+.Img_volver{
+    text-align: justify;
+}
+.volver{
+height: 55px;
+width: 75px;
+}
+main {
+    background-color: rgb(151, 186, 252);
+    width: 50%;
+    font-size: 28px;
+    padding: 20px;  
+}
+.img2{
+    height: 50%;
+    width: 80%;
+}
+.Temastyle{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 50px;
+    width: 70%;
+}
+.imagen2{
+    width: 300px;
+    text-align: center;
+    
+}
+.body{
+    background-color: deepskyblue;
+}
